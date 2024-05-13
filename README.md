@@ -1,4 +1,4 @@
-![MasterHead]
+
 <h1 align="center">Hi 👋, I'm Naman Bharwaj</h1>
 <h3 align="center">
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Unleashing+the+Programmer+Within" alt="Typing SVG" /></a></h3>
