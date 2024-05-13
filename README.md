@@ -1,9 +1,7 @@
-![MasterHead](https://www.trio.dev/hubfs/laptop-sand-clock.webp)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Naman Bharwaj</h1>
 <h3 align="center">
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Unleashing+the+Programmer+Within" alt="Typing SVG" /></a></h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenomicfellow&label=Profile%20views&color=0e75b6&style=flat" alt="thenomicfellow" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thenomicfellow" target="blank"><img src="https://img.shields.io/twitter/follow/thenomicfellow?logo=twitter&style=for-the-badge" alt="thenomicfellow" /></a> </p>
